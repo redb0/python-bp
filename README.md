@@ -49,7 +49,7 @@ git clone https://github.com/redb0/python-bp.git
 
 # Содержание
 
-1. [Введение в Python](python_pd\01_introduction\overview.md)
+1. [Введение в Python](python_pd/01_introduction/overview.md)
     <!-- - [О Python](python_pd\01_introduction\introduction.md#o-python)
     - [Почему стоит изучать Python](python_pd\01_introduction\introduction.md#почему-стоит-изучать-python?)
     - Недостатки Python
