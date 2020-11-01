@@ -5,7 +5,7 @@
 приводится описание примеров и то, с чего стоит начать изучение курса, а также 
 немного об инструментах, которые могут потребоваться.
 
-- [1.1 О Python](introduction.md#о-python)
+- [1.1 О Python](introduction.md)
 - [1.2 Почему стоит изучать Python?](introduction.md#почему-стоит-изучать-python?)
 - [1.3 Недостатки Python](introduction.md#недостатки-python)
 - [1.4 Принципы Python](introduction.md#принциры-python)

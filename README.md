@@ -49,18 +49,18 @@ git clone https://github.com/redb0/python-bp.git
 
 # Содержание
 
-1. Введение в Python
-    - О Python
-    - Почему стоит изучать Python
+1. [Введение в Python](python_pd\01_introduction\overview.md)
+    <!-- - [О Python](python_pd\01_introduction\introduction.md#o-python)
+    - [Почему стоит изучать Python](python_pd\01_introduction\introduction.md#почему-стоит-изучать-python?)
     - Недостатки Python
     - Принципы Python
     - Руководство по написанию кода
     - О примерах кода
     - Необходимое ПО и зависимости
     - Проверка кода на соответcвтвие стандарту
-    - Python и командная строка
-    - Виртуальное окружение
-    - Полезные ссылки
+    - Python и командная строка -->
+    <!-- - Виртуальное окружение -->
+    <!-- - Полезные ссылки -->
 2. Синтаксис
     - Простые типы данных (числа | логический | NoneType | строки)
     - Переменные и выражения
