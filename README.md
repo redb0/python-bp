@@ -61,10 +61,10 @@ git clone https://github.com/redb0/python-bp.git
     - Python и командная строка -->
     <!-- - Виртуальное окружение -->
     <!-- - Полезные ссылки -->
-2. [Синтаксис](python_pd/02_synrax/overview.md)
-    - [Простые типы данных (числа | логический | NoneType | строки)](python_pd/02_synrax/simple_types.ipynb)
-    - [Переменные и выражения](python_pd/02_synrax/variables.ipynb)
-    - Управляющие конструкции
+2. [Синтаксис](python_pd/02_syntax/overview.md)
+    - [Простые типы данных (числа | логический | NoneType | строки)](python_pd/02_syntax/simple_types.ipynb)
+    - [Переменные и выражения](python_pd/02_syntax/variables.ipynb)
+    - [Управляющие конструкции](python_pd/02_syntax/control_structures.ipynb)
     - Кратко о функциях
     - Типизация
 3. Коллекции
