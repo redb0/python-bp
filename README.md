@@ -67,8 +67,13 @@ git clone https://github.com/redb0/python-bp.git
     - [Управляющие конструкции](python_pd/02_syntax/control_structures.ipynb)
     - [Кратко о функциях](python_pd/02_syntax/functions.ipynb)
     - [Типизация](python_pd/02_syntax/dtyping.ipynb)
-3. Коллекции
-    - Базовые коллекции (list | dict | tuple | set | str)
+3. [Коллекции](python_pd/03_collections/overview.md)
+    - [Базовые коллекции](python_pd/03_collections/basic_collections/overview.md) 
+    ([str](python_pd/03_collections/basic_collections/string.ipynb) | 
+    [list](python_pd/03_collections/basic_collections/list.ipynb) | 
+    [dict](python_pd/03_collections/basic_collections/dict.ipynb) | 
+    [tuple](python_pd/03_collections/basic_collections/tuple.ipynb) | 
+    [set](python_pd/03_collections/basic_collections/set.ipynb))
     - Включения в список | словарь | множество | кортеж
     - Модуль collections
     - Итераторы
