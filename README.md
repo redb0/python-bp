@@ -49,7 +49,7 @@ git clone https://github.com/redb0/python-bp.git
 
 # Содержание
 
-1. [Введение в Python](python_pd/01_introduction/overview.md)
+1. [**Введение в Python**](python_pd/01_introduction/overview.md)
     <!-- - [О Python](python_pd\01_introduction\introduction.md#o-python)
     - [Почему стоит изучать Python](python_pd\01_introduction\introduction.md#почему-стоит-изучать-python?)
     - Недостатки Python
@@ -61,13 +61,13 @@ git clone https://github.com/redb0/python-bp.git
     - Python и командная строка -->
     <!-- - Виртуальное окружение -->
     <!-- - Полезные ссылки -->
-2. [Синтаксис](python_pd/02_syntax/overview.md)
+2. [**Синтаксис**](python_pd/02_syntax/overview.md)
     - [Простые типы данных (числа | логический | NoneType | строки)](python_pd/02_syntax/simple_types.ipynb)
     - [Переменные и выражения](python_pd/02_syntax/variables.ipynb)
     - [Управляющие конструкции](python_pd/02_syntax/control_structures.ipynb)
     - [Кратко о функциях](python_pd/02_syntax/functions.ipynb)
     - [Типизация](python_pd/02_syntax/dtyping.ipynb)
-3. [Коллекции](python_pd/03_collections/overview.md)
+3. [**Коллекции**](python_pd/03_collections/overview.md)
     - [Базовые коллекции](python_pd/03_collections/basic_collections/overview.md) 
     ([str](python_pd/03_collections/basic_collections/string.ipynb) | 
     [list](python_pd/03_collections/basic_collections/list.ipynb) | 
@@ -75,11 +75,11 @@ git clone https://github.com/redb0/python-bp.git
     [tuple](python_pd/03_collections/basic_collections/tuple.ipynb) | 
     [set](python_pd/03_collections/basic_collections/set.ipynb))
     - Включения в список | словарь | множество | кортеж
-    - Модуль collections
+    - Модуль ```collections```
     - Итераторы
     - Изменяемые и неизменяемые типы данных
     - Полезные ссылки
-4. Функции
+4. **Функции**
     - Аргументы функций
     - Возвращаемое значение
     - Анонимные функции
@@ -88,11 +88,11 @@ git clone https://github.com/redb0/python-bp.git
     - Декораторы
     - Генераторы
     - Исключения
-5. Файлы
+5. **Файлы**
     - Менеджер контекста
     - Работа с путями
     - Работа с текстовыми форматами (txt | json | csv)
-6. Классы
+6. **Классы**
     - Классы и экземпляры класса
     - Атрибуты класса и экземпляра
     - Методы
@@ -104,10 +104,10 @@ git clone https://github.com/redb0/python-bp.git
     - Декораторы классов
     - Абстрактные классы
     - Метаклассы
-7. Импорт
+7. **Импорт**
     - Модули и пакеты
     - Абсолютный и относительный импорт
     - Циклический импорт
     - Система импорта
     - Поиск модулей и пакетов
-8. [Интересные примеры кода](python_pd/badcode.ipynb)
+8. [**Интересные примеры кода**](python_pd/badcode.ipynb)
