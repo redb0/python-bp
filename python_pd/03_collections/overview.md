@@ -7,7 +7,8 @@
 - [3.3 Включения](comprehensions.ipynb)
 - [3.4 Модуль ```collections```](collections.ipynb)
 - [3.5 Итераторы](iter.ipynb)
+- [3.6 Модуль ```itertools```](itertools.ipynb)
 
 [К содержанию](../../README.md)
 
-[3. Коллекции](../03_collections/overview.md)
+[4. Функции](../04_functions/overview.md)

@@ -74,12 +74,11 @@ git clone https://github.com/redb0/python-bp.git
     [dict](python_pd/03_collections/basic_collections/dict.ipynb) | 
     [tuple](python_pd/03_collections/basic_collections/tuple.ipynb) | 
     [set](python_pd/03_collections/basic_collections/set.ipynb))
-    - Включения в список | словарь | множество | кортеж
-    - Модуль ```collections```
-    - Итераторы
-    - Изменяемые и неизменяемые типы данных
-    - Полезные ссылки
-4. **Функции**
+    - [Изменяемые и неизменяемые типы данных](python_pd/03_collections/im_mutable_and_copy.ipynb)
+    - [Включения в список | словарь | множество | кортеж](python_pd/03_collections/comprehensions.ipynb)
+    - [Модуль ```collections```](python_pd/03_collections/collections.ipynb)
+    - [Итераторы](python_pd/03_collections/iter.ipynb)
+4. [**Функции**](python_pd/04_functions/overview.md)
     - Аргументы функций
     - Возвращаемое значение
     - Анонимные функции
