@@ -9,12 +9,12 @@
 - [4.3 Анонимные функции](03_lambda.ipynb)
 - [4.4 Области видимости](04_legb.ipynb)
 - [4.5 Рекурсия](05_recursion.ipynb)
-- [4.6 Замыкания](closures.ipynb)
-- [4.7 Декораторы](decorators.ipynb)
-- [4.8 Генераторы](generators.ipynb)
-- [4.9 Модуль ```functools```](functools.ipynb)
-- [4.10 Исключения](exceptions.ipynb)
+- [4.6 Замыкания](06_closures.ipynb)
+- [4.7 Декораторы](07_decorators.ipynb)
+- [4.8 Генераторы](08_generators.ipynb)
+- [4.9 Модуль ```functools```](09_functools.ipynb)
+- [4.10 Исключения](10_exceptions.ipynb)
 
 [К содержанию](../../README.md)
 
-[5. Файлы](../05_files/overview.md)
+[5. Файлы](../05_files/00_overview.md)

@@ -6,7 +6,7 @@
 
 - [2.1 Простые типы данных](simple_types.ipynb)
 - [2.2 Переменные и выражения](variables.ipynb)
-- [2.3 Управляющие конструкции](statements.ipynb)
+- [2.3 Управляющие конструкции](control_structures.ipynb)
 - [2.4 Кратко о функциях](functions.ipynb)
 - [2.5 Типизация](dtyping.ipynb)
 
