@@ -4,12 +4,12 @@
 работы с именами или переменными. В заключении будет рассмотрены особенности 
 динамической типизации в Python.
 
-- [2.1 Простые типы данных](simple_types.ipynb)
-- [2.2 Переменные и выражения](variables.ipynb)
-- [2.3 Управляющие конструкции](control_structures.ipynb)
-- [2.4 Кратко о функциях](functions.ipynb)
-- [2.5 Типизация](dtyping.ipynb)
+- [2.1 Простые типы данных](01_simple_types.ipynb)
+- [2.2 Переменные и выражения](02_variables.ipynb)
+- [2.3 Управляющие конструкции](03_control_structures.ipynb)
+- [2.4 Кратко о функциях](04_functions.ipynb)
+- [2.5 Типизация](05_dtyping.ipynb)
 
 [К содержанию](../../README.md)
 
-[3. Коллекции](../03_collections/overview.md)
+[3. Коллекции](../03_collections/00_overview.md)
