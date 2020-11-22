@@ -49,7 +49,7 @@ git clone https://github.com/redb0/python-bp.git
 
 # Содержание
 
-1. [**Введение в Python**](python_pd/01_introduction/overview.md)
+1. [**Введение в Python**](python_pd/01_intro/00_overview.md)
     <!-- - [О Python](python_pd\01_introduction\introduction.md#o-python)
     - [Почему стоит изучать Python](python_pd\01_introduction\introduction.md#почему-стоит-изучать-python?)
     - Недостатки Python
@@ -61,24 +61,25 @@ git clone https://github.com/redb0/python-bp.git
     - Python и командная строка -->
     <!-- - Виртуальное окружение -->
     <!-- - Полезные ссылки -->
-2. [**Синтаксис**](python_pd/02_syntax/overview.md)
-    - [Простые типы данных (числа | логический | NoneType | строки)](python_pd/02_syntax/simple_types.ipynb)
-    - [Переменные и выражения](python_pd/02_syntax/variables.ipynb)
-    - [Управляющие конструкции](python_pd/02_syntax/control_structures.ipynb)
-    - [Кратко о функциях](python_pd/02_syntax/functions.ipynb)
-    - [Типизация](python_pd/02_syntax/dtyping.ipynb)
-3. [**Коллекции**](python_pd/03_collections/overview.md)
-    - [Базовые коллекции](python_pd/03_collections/basic_collections/overview.md) 
-    ([str](python_pd/03_collections/basic_collections/string.ipynb) | 
-    [list](python_pd/03_collections/basic_collections/list.ipynb) | 
-    [dict](python_pd/03_collections/basic_collections/dict.ipynb) | 
-    [tuple](python_pd/03_collections/basic_collections/tuple.ipynb) | 
-    [set](python_pd/03_collections/basic_collections/set.ipynb))
-    - [Изменяемые и неизменяемые типы данных](python_pd/03_collections/im_mutable_and_copy.ipynb)
-    - [Включения в список | словарь | множество | кортеж](python_pd/03_collections/comprehensions.ipynb)
-    - [Модуль ```collections```](python_pd/03_collections/collections.ipynb)
-    - [Итераторы](python_pd/03_collections/iter.ipynb)
-4. [**Функции**](python_pd/04_functions/overview.md)
+2. [**Синтаксис**](python_pd/02_syntax/00_overview.md)
+    - [Простые типы данных (числа | логический | NoneType | строки)](python_pd/02_syntax/01_simple_types.ipynb)
+    - [Переменные и выражения](python_pd/02_syntax/02_variables.ipynb)
+    - [Управляющие конструкции](python_pd/02_syntax/03_control_structures.ipynb)
+    - [Кратко о функциях](python_pd/02_syntax/04_functions.ipynb)
+    - [Типизация](python_pd/02_syntax/05_dtyping.ipynb)
+3. [**Коллекции**](python_pd/03_collections/00_overview.md)
+    - [Базовые коллекции](python_pd/03_collections/basic_collections/00_overview.md) 
+    ([str](python_pd/03_collections/basic_collections/01_string.ipynb) | 
+    [list](python_pd/03_collections/basic_collections/02_list.ipynb) | 
+    [dict](python_pd/03_collections/basic_collections/03_dict.ipynb) | 
+    [tuple](python_pd/03_collections/basic_collections/04_tuple.ipynb) | 
+    [set](python_pd/03_collections/basic_collections/05_set.ipynb))
+    - [Изменяемые и неизменяемые типы данных](python_pd/03_collections/01_im_mutable_and_copy.ipynb)
+    - [Включения в список | словарь | множество | кортеж](python_pd/03_collections/02_comprehensions.ipynb)
+    - [Модуль ```collections```](python_pd/03_collections/03_collections.ipynb)
+    - [Итераторы](python_pd/03_collections/04_iter.ipynb)
+    - [Модуль ```itertools```](python_pd/03_collections/05_itertools.ipynb)
+4. [**Функции**](python_pd/04_functions/00_overview.md)
     - Аргументы функций
     - Возвращаемое значение
     - Анонимные функции
