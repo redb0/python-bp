@@ -80,13 +80,13 @@ git clone https://github.com/redb0/python-bp.git
     - [Итераторы](python_pd/03_collections/04_iter.ipynb)
     - [Модуль ```itertools```](python_pd/03_collections/05_itertools.ipynb)
 4. [**Функции**](python_pd/04_functions/00_overview.md)
-    - Аргументы функций
+    - [Аргументы функций](python_pd/04_functions/01_args.ipynb)
     - Возвращаемое значение
     - Анонимные функции
     - Области видимости
     - Замыкания
     - Декораторы
-    - Генераторы
+    - [Генераторы](python_pd/04_functions/08_generators.ipynb)
     - Исключения
 5. **Файлы**
     - Менеджер контекста
