@@ -81,13 +81,14 @@ git clone https://github.com/redb0/python-bp.git
     - [Модуль ```itertools```](python_pd/03_collections/05_itertools.ipynb)
 4. [**Функции**](python_pd/04_functions/00_overview.md)
     - [Аргументы функций](python_pd/04_functions/01_args.ipynb)
-    - Возвращаемое значение
-    - Анонимные функции
-    - Области видимости
-    - Замыкания
-    - Декораторы
+    - [Возвращаемое значение](python_pd/04_functions/02_return.ipynb)
+    - [Анонимные функции](python_pd/04_functions/03_lambda.ipynb)
+    - [Области видимости](python_pd/04_functions/04_legb.ipynb)
+    - [Замыкания](python_pd/04_functions/06_closures.ipynb)
+    - [Декораторы](python_pd/04_functions/07_decorators.ipynb)
     - [Генераторы](python_pd/04_functions/08_generators.ipynb)
-    - Исключения
+    - [Модуль ```functools```](python_pd/04_functions/09_functools.ipynb)
+    - [Исключения](python_pd/04_functions/10_exceptions.ipynb)
 5. **Файлы**
     - Менеджер контекста
     - Работа с путями
