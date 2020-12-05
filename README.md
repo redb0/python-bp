@@ -89,11 +89,12 @@ git clone https://github.com/redb0/python-bp.git
     - [Генераторы](python_pd/04_functions/08_generators.ipynb)
     - [Модуль ```functools```](python_pd/04_functions/09_functools.ipynb)
     - [Исключения](python_pd/04_functions/10_exceptions.ipynb)
-5. **Файлы**
+5. [**Файлы**](python_pd/05_files/00_overview.md)
+    - Файлы. Чтение и запись
     - Менеджер контекста
+    - Работа с текстовыми форматами (```txt``` | ```json``` | ```csv``` | ```pickle```)
     - Работа с путями
-    - Работа с текстовыми форматами (txt | json | csv)
-6. **Классы**
+6. [**Классы**](python_pd/06_classes/00_overview.md)
     - Классы и экземпляры класса
     - Атрибуты класса и экземпляра
     - Методы
@@ -105,10 +106,10 @@ git clone https://github.com/redb0/python-bp.git
     - Декораторы классов
     - Абстрактные классы
     - Метаклассы
-7. **Импорт**
+7. [**Импорт**](python_pd/07_import/00_overview.md)
     - Модули и пакеты
     - Абсолютный и относительный импорт
     - Циклический импорт
     - Система импорта
     - Поиск модулей и пакетов
-8. [**Интересные примеры кода**](python_pd/badcode.ipynb)
+8. [**Примеры плохого кода**](python_pd/badcode.ipynb)
