@@ -90,10 +90,16 @@ git clone https://github.com/redb0/python-bp.git
     - [Модуль ```functools```](python_pd/04_functions/09_functools.ipynb)
     - [Исключения](python_pd/04_functions/10_exceptions.ipynb)
 5. [**Файлы**](python_pd/05_files/00_overview.md)
-    - Файлы. Чтение и запись
-    - Менеджер контекста
-    - Работа с текстовыми форматами (```txt``` | ```json``` | ```csv``` | ```pickle```)
-    - Работа с путями
+    - [Файлы. Чтение и запись](python_pd/05_files/01_files.ipynb)
+    - [Менеджер контекста](python_pd/05_files/03_cmanagers.ipynb)
+    - Работа с текстовыми форматами 
+    ([```txt```](python_pd/05_files/01_files.ipynb) | 
+    [```json```](python_pd/05_files/04_json.ipynb) | 
+    [```csv```](python_pd/05_files/05_csv.ipynb) | 
+    [```pickle```](python_pd/05_files/06_pickle.ipynb))
+    - Работа с путями 
+    ([```os.path```](python_pd/05_files/07_os_path.ipynb) | 
+    [```pathlib```](python_pd/05_files/08_pathlib.ipynb))
 6. [**Классы**](python_pd/06_classes/00_overview.md)
     - Классы и экземпляры класса
     - Атрибуты класса и экземпляра
