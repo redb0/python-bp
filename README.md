@@ -91,8 +91,9 @@ git clone https://github.com/redb0/python-bp.git
     - [Исключения](python_pd/04_functions/10_exceptions.ipynb)
 5. [**Файлы**](python_pd/05_files/00_overview.md)
     - [Файлы. Чтение и запись](python_pd/05_files/01_files.ipynb)
+    - [Модуль ```io```](python_pd/05_files/02_io.ipynb)
     - [Менеджер контекста](python_pd/05_files/03_cmanagers.ipynb)
-    - Работа с текстовыми форматами 
+    - Модули для работы с разными форматами 
     ([```txt```](python_pd/05_files/01_files.ipynb) | 
     [```json```](python_pd/05_files/04_json.ipynb) | 
     [```csv```](python_pd/05_files/05_csv.ipynb) | 
