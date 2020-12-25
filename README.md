@@ -112,16 +112,16 @@ git clone https://github.com/redb0/python-bp.git
     [```pathlib```](python_pd/05_files/08_pathlib.ipynb))
 6. [**Классы**](python_pd/06_classes/00_overview.md)
     - [Классы и экземпляры класса](python_pd/06_classes/01_class.md)
-    - Атрибуты класса и экземпляра
-    - Методы
-    - Наследование
-    - "Магические" методы
-    - Протоколы
-    - Утиная типизация
-    - Дескрипторы и свойства
-    - Декораторы классов
-    - Абстрактные классы
-    - Метаклассы
+    - [Атрибуты класса и экземпляра](python_pd/06_classes/02_attr.md)
+    - [Методы](python_pd/06_classes/03_methods.md)
+    - [Наследование](python_pd/06_classes/04_inheritance.md)
+    - ["Магические" методы](python_pd/06_classes/05_magic.md)
+    - [Протоколы](python_pd/06_classes/06_protocols.md)
+    - [Утиная типизация](python_pd/06_classes/07_duck_typing.md)
+    - [Дескрипторы и свойства](python_pd/06_classes/08_property.md)
+    - [Декораторы классов](python_pd/06_classes/09_decorators.md)
+    - [Абстрактные классы](python_pd/06_classes/10_abc.md)
+    - [Метаклассы](python_pd/06_classes/11_meta.md)
 7. [**Импорт**](python_pd/07_import/00_overview.md)
     - Модули и пакеты
     - Абсолютный и относительный импорт
