@@ -128,4 +128,5 @@ git clone https://github.com/redb0/python-bp.git
     - Циклический импорт
     - Система импорта
     - Поиск модулей и пакетов
-8. [**Примеры плохого кода**](python_pd/badcode.ipynb)
+8. [**Полезные библиотеки**](libraries.md)
+9. [**Примеры плохого кода**](python_pd/badcode.ipynb)
