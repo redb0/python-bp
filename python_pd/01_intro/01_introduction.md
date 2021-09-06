@@ -203,6 +203,14 @@ $ python -m pip install pylint
 $ python -m pylint file_name.py
 ```
 
+В этом репозитории в корневой директории вы найдете модифицированный
+файл конфигурации ```.pylintrc``` для более строгой проверки своего
+кода. Для этого нужно немного изменить команду выше:
+
+```bash
+$ python -m pylint --rcfile=.pylintrc file_name.py
+```
+
 ## Python и командная строка
 
 Запустить интерпретатор Python в терминале командной строки можно выполнив 
@@ -230,6 +238,10 @@ Hello, World!
 ## Полезные ссылки
 
 - :books: [Блог](http://python-history.blogspot.com/) Гвидо Ван Россума о истории Python
+- :books: [Блог о Python](http://neopythonic.blogspot.com/) Гвидо Ван Россума о Python
+- :books: [Блог о MyPy](http://mypy-lang.blogspot.com/) Гвидо Ван Россума о проекте MyPy
+- :books: [Блоги Гвидо Ван Россума](https://www.blogger.com/profile/12821714508588242516)
+- :octocat: [Репозиторий Гвидо Ван Россума](https://github.com/gvanrossum)
 - :clipboard: [Дзен Python](https://www.python.org/dev/peps/pep-0020/)
 - :pencil: [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 - :snake: [python.org](https://www.python.org/)
