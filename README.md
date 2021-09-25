@@ -123,11 +123,14 @@ git clone https://github.com/redb0/python-bp.git
     - [Абстрактные классы](python_pd/06_classes/10_abc.ipynb)
     - [Метаклассы](python_pd/06_classes/11_meta.ipynb)
 7. [**Импорт**](python_pd/07_import/00_overview.md)
-    - Модули и пакеты
-    - Абсолютный и относительный импорт
-    - Циклический импорт
-    - Система импорта
-    - Поиск модулей и пакетов
+    - [Модули и пакеты](python_pd/07_import/01_modules.ipynb)
+    - [Абсолютный и относительный импорт](python_pd/07_import/02_types_imports.ipynb)
+    - [Циклический импорт](python_pd/07_import/02_types_imports.ipynb)
+    - [Система импорта](python_pd/07_import/03_system.ipynb)
+    - [Поиск модулей и пакетов](python_pd/07_import/04_search.ipynb)
+    - [`pip`](python_pd/07_import/05_pip.ipynb)
+    - [Виртуальное окружение](python_pd/07_import/06_venv.ipynb)
+    - [PyPI](python_pd/07_import/07_pypi.ipynb)
 8. [**Полезные библиотеки**](libraries.md)
 9. [**Примеры плохого кода**](python_pd/badcode.ipynb)
 
